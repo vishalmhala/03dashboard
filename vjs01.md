@@ -1,0 +1,1 @@
+Use a Local Git Repository: You can create and use a Git repository entirely on your local machine without connecting to a remote server at all. This lets you practice all basic Git operations (commit, branch, merge, etc.).

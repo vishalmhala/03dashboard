@@ -1,0 +1,1 @@
+Security and Integrity: Allowing anyone to push code without permission would enable malicious actors to corrupt, delete, or inject harmful code into projects, which is unacceptable for reliable software development.
